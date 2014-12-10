@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7F7881D2-6006-4CC5-86FF-F9A5CF5591A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Workflow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1F11A09E3C730B2A39BEF57A3735D55CDAFB15AB</key>
+		<string>https://github.com/johancutych/ProjectWorkflow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Workflow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1F11A09E3C730B2A39BEF57A3735D55CDAFB15AB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johancutych/ProjectWorkflow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1F11A09E3C730B2A39BEF57A3735D55CDAFB15AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1F11A09E3C730B2A39BEF57A3735D55CDAFB15AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProjectWorkflow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
